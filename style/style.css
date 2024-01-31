@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+@media screen and (max-width: 600px){
+    .sh-1{
+        height: 265vw;
+        width: 100%;
+        background-color: lightblue;
+        margin-top: 5vw;
+    }
+    /* part-1 */
+    .sh-2{
+        font-size: 5vw;
+        border-bottom: 0.1vw solid black;
+        display: inline;
+    }
+    .sh-3{
+        padding-top: 3vw;
+        font-size: 4vw;
+    }
+    .sh-3 li{
+        margin-left: 3vw;
+        list-style: none;
+    }
+    .sh-3 li a{
+        line-height: 9vw;
+        text-decoration: none;
+        letter-spacing: 1vw;
+        border-bottom: 0.1vw solid;
+        display: block;
+    }
+    /* part-2 */
+    .sh-4{
+        height: 71vw;
+        width: 100%;
+        background-color: lightblue;
+        margin-top: 9vw;
+    }
+    .sh-5{
+        display: flex;
+        height: 21vw;
+        border-bottom: 0.3vw solid black;
+    }
+    .sh-6{
+        display: flex;
+        height: 21vw;
+        border-bottom: 0.3vw solid black;
+    }
+    .sh-7{
+        display: flex;
+        height: 21vw;
+        border-bottom: 0.3vw solid black;
+    }
+    .sh-8{
+        font-size: 7vw;
+        padding-left: 3vw;
+    }
+    .sh-9{
+        font-size: 5vw;
+        padding-top: 1vw;
+        padding-left: 6vw;
+    }
+    .sh-10{
+        font-size: 7vw;
+        padding-left: 3vw;
+    }
+    .sh-11{
+        font-size: 5vw;
+        padding-top: 1vw;
+        padding-left: 6vw;
+    }
+    .sh-12{
+        font-size: 7vw;
+        padding-left: 3vw;
+    }
+    .sh-13{
+        font-size: 5vw;
+        padding-top: 1vw;
+        padding-left: 6vw;
+    }
+    /* part-3 */
+    .ka-1{
+        height: 51vw;
+        width: 100%;
+        background-color: lightblue;
+        margin-top: 7vw;
+    }
+    .ka-2{
+        font-size: 5vw;
+        padding-left: 3vw;
+        padding-top: 10vw;
+        border-bottom: 0.1vw solid black;
+        display: inline;
+    }
+    /* part-4 */
+    .ka-4{
+        height: 61vw;
+        width: 100%;
+        background-color: lightblue;
+        margin-top: 3vw;
+    }
+    .ka-5{
+        font-size: 8vw;
+        margin-left: 3vw;
+        border-bottom: 0.3vw solid black;
+        display: inline;
+    }
+    .ka-6{
+        font-size: 3.5vw;
+        margin-left: 3vw;
+        letter-spacing: 2vw;
+        padding-top: 2vw;
+    }
+    .ka-7{
+        margin-left: 3vw;
+        padding-top: 2vw;
+        font-size: 3vw;
+        font-weight: 600;
+    }
+    .ka-8{
+        height: 7vw;
+        width: 48%;
+        background-color: darkorange;
+        border-radius: 1vw;
+        border: 2px solid white;
+        padding-top: 1vw;
+        text-align: center;
+        margin-top: 2vw;
+        margin-left: 1vw;
+        color: white;
+    }
+    .ka-9{
+        margin-top: 3vw;
+    }
+    .ka-10{
+        font-size: 4vw;
+        padding-left: 3vw;
+        border-bottom: 0.3vw solid black;
+        display: inline;
+    }
+    .ka-11{
+        margin-left: 3vw;
+        padding-top: 2vw;
+        font-size: 7vw;
+    }
+    .sp-1{
+        font-size: 4vw;
+        padding-top: 3vw;
+    }
+    .sp-2{
+        font-size: 4vw;
+        padding-top: 3vw;
+    }
+    .sp-3{
+        font-size: 4vw;
+        padding-top: 3vw;
+    }
+}
